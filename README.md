@@ -1,16 +1,90 @@
-## Hi there 👋
+# Hi, I'm Rohan 👋
 
-<!--
-**rrohan-R/rrohan-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer
 
-Here are some ideas to get you started:
+I build full-stack web applications using Java, React, AI Models,
+PostgreSQL and modern cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- Spring Security
+- REST APIs
+- JWT
+
+### Frontend
+- React
+- HTML
+- CSS
+
+### Database
+- PostgreSQL
+- MySQL
+
+### DevOps & Cloud
+- Docker
+- AWS (Beginner)
+- CI/CD
+- Portainer
+- Render
+- Vercel
+
+### Tools
+- Git & GitHub
+- Postman
+- Jira
+- New Relic
+- Sentry
+- Claude Code
+- GitHub Copilot
+- PuTTY
+- WinSCP
+- pgAdmin
+- IntelliJ IDEA
+- Eclipse
+- VS Code
+
+## 🚀 Featured Project
+
+### Job Application Platform
+
+A full-stack job portal built with Spring Boot, React and PostgreSQL.
+
+🔗 **Live Demo:** https://job-application-frontend-delta.vercel.app/
+
+> **Note:** The backend is hosted on Render's free tier, so the application
+> may take up to a few minutes to respond after being inactive.
+
+#### Features
+
+- 🔐 JWT authentication
+- 👥 Role-based authorization
+- 💼 Job posting
+- 📝 Job applications
+- 📄 Resume upload
+- ❤️ Save jobs
+- 💬 WebSocket chat
+- 🤖 AI-integrated chatbot
+
+#### Tech Stack
+
+`Java` `Spring Boot` `Spring Security` `React` `PostgreSQL`
+`JWT` `WebSocket` `Docker` `AI Integration`
+
+## 📂 Other Projects
+
+Check out my other repositories for other projects.
+
+## 🌱 Currently Learning
+
+- AWS
+- System Design
+- Generative AI
+- Data Structures & Algorithms
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/rohan-r007
+- Email: rrohanr4d@gmail.com
