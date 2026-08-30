@@ -1,6 +1,6 @@
 # Hi, I'm Rohan 👋
 
-### Java Full Stack Developer
+### Full Stack Developer
 
 I build full-stack web applications using Java, React, AI Models,
 PostgreSQL and modern cloud technologies.
@@ -18,7 +18,12 @@ PostgreSQL and modern cloud technologies.
 - React
 - HTML
 - CSS
-
+  
+### Agentic AI
+- Langchain
+- Langgraph
+- LLMs
+  
 ### Database
 - PostgreSQL
 - MySQL
@@ -48,11 +53,26 @@ PostgreSQL and modern cloud technologies.
 
 ## 🚀 Featured Project
 
+### Movie Recommendation System
+
+A langchain based streamlit app that gives the IMDB links of top movies for the chosen genre and year.
+
+🔗 **Live At:** https://findyourmoviez.streamlit.app/
+
+#### Features
+
+- Can query movie based on genre and year of release.
+- Generates the required IMDB links.
+
+#### Tech Stack
+
+`Python` `Langchain` `LLM Integration` `Streamlit`
+
 ### Job Application Platform
 
 A full-stack job portal built with Spring Boot, React and PostgreSQL.
 
-🔗 **Live Demo:** https://job-application-frontend-delta.vercel.app/
+🔗 **Live At:** https://job-application-frontend-delta.vercel.app/
 
 > **Note:** The backend is hosted on Render's free tier, so the application
 > may take up to a few minutes to respond after being inactive.
