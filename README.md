@@ -102,6 +102,7 @@ Check out my other repositories for other projects.
 - AWS
 - System Design
 - Generative AI
+- Agentic AI
 - Data Structures & Algorithms
 
 ## 📫 Connect With Me
